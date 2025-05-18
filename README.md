@@ -62,7 +62,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-  ![Alt Text](https://github.com/dabdob1/Weather-Forecasting-App/blob/master/WhatsApp%20Image%202025-05-06%20at%2020.37.13_678ab41a.jpg?raw=true)
+  ![Alt Text](https://github.com/dabdob1/Weather-Forecasting-App/blob/master/WhatsApp%20Image%202025-05-18%20at%2013.48.00_38ec9f93.jpg?raw=true)
 
 
 
