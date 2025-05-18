@@ -1,16 +1,65 @@
-# weather_app_code
+🌤️ Weather Forecasting App
+A sleek and responsive Weather Forecasting App built using Flutter. It fetches real-time weather data using the OpenWeatherMap API and displays current and forecasted weather conditions based on the user's location or a searched city.
 
-A new Flutter project.
+📱 Features
+🌍 Get weather by current location or search any city
 
-## Getting Started
+🌡️ Real-time temperature, humidity, and wind info
 
-This project is a starting point for a Flutter application.
+📅 5-day weather forecast
 
-A few resources to get you started if this is your first Flutter project:
+🎨 Beautiful and responsive UI (dark/light mode optional)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔄 Pull-to-refresh support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Technologies Used
+Flutter (Dart)
+
+HTTP package for API calls
+
+Provider or Bloc for state management (optional)
+
+Geolocator for location services
+
+OpenWeatherMap API
+
+🚀 Getting Started
+1. Clone the repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/Weather-Forecasting-App.git
+cd Weather-Forecasting-App
+2. Install dependencies
+bash
+Copy
+Edit
+flutter pub get
+3. Get OpenWeatherMap API Key
+Sign up at OpenWeatherMap
+
+Get your free API key
+
+Add it to your code (e.g., in lib/utils/constants.dart):
+
+dart
+Copy
+Edit
+const String apiKey = 'YOUR_API_KEY_HERE';
+4. Run the app
+bash
+Copy
+Edit
+flutter run
+📸 Screenshots (Optional)
+Include screenshots or a short GIF here to showcase the UI.
+
+🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+  ![Alt Text]()
+  ![Alt Text]()
+
